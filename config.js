@@ -29,7 +29,7 @@ global.sgh = 'https://github.com/' //github
 global.sgc = 'https://chat.whatsapp.com/DJm9Fvyk1zR3cWftkgCu9S' //group whatsapp
 global.saluran = 'https://whatsapp.com/channel/0029VaJHq2XFSAsz4dtOTE0T' //saluran whatsapp
 global.syt = 'https://www.youtube.com/@rapik_gimangYT' //youtube
-global.swa = 'https://wa.me/6281312651566' //whatsapp
+global.swa = 'https://wa.me/6282223537406' //whatsapp
 global.tele = 'https://t.me/rapikz' //telegram
 global.sdc = 'https://discord.gg/fu2BQ5RZ' //discord
 global.snh = 'https://nhentai.net/' //nhentai
@@ -64,13 +64,13 @@ global.capikey = 'pltc_xxxxx' //pltc
 global.apikey = 'plta_xxxxx' //plta
 
 /*============== APIKEY ==============*/
-global.lolkey = 'Nanasmuda'
-global.xkey = 'd90a9e986e18778b'
-global.xzn = 'konekocyz'
-global.lann = 'Utopia x Greezak'
-global.xyro = '3WIq7q3CWt'
-global.btc = "antisukii"//😂👈
-global.lol = 'Nanasmuda'
+global.lolkey = '' //Isi apikeymu
+global.xkey = '' //Isi apikeymu
+global.xzn = 'konekocyz' //Isi apikeymy
+global.lann = '' //Isi apikeymu
+global.xyro = '3WIq7q3CWt' //isi apikeymy
+global.btc = "" //😂👈
+global.lol = '' //Isi apikeymu
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
@@ -78,7 +78,8 @@ global.APIs = { // API Prefix
   nrtm: 'https://nurutomo.herokuapp.com',
   lol: 'https://api.lolhuman.xyz', 
   xzn: 'https://skizo.tech',
-  lann: 'https://api.betabotz.org', 
+  lann: 'https://api.betabotz.eu.org', 
+  btc: 'https://api.botcahx.eu.org',
   xyro: 'https://api.xyroinee.xyz'
 }
 
@@ -86,7 +87,8 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.lolhuman.xyz': 'f5ae393f8d51a61718de131b', //lolhuman
   'https://skizo.tech': 'konekocyz', //skizo
-  'https://api.betabotz.org': 'Utopia x Greezak', //betabotz
+  'https://api.betabotz.org': '', //betabotz
+  'https://api.botcahx.eu.org': '', //botcahx
   'https://api.xyroinee.xyz': '3WIq7q3CWt' //xyroine
 }
 
