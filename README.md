@@ -18,6 +18,7 @@
 ---------
 
 ### A little about this bot
+- 📌 | PairingCode
 - 📌 | Simple
 - 📌 | Menfess
 - 📌 | AntiCall
